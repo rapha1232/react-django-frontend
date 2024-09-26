@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("./styles/Home.css");
+@import url("./styles/LoadingIndicator.css");
+@import url("./styles/Note.css");
